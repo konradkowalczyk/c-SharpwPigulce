@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "letKeyword", "letKeyword\letKeyword.csproj", "{C31526F5-E96C-4C3C-AD56-A800E025B608}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectProjection", "..\SelectProjection\SelectProjection.csproj", "{1E060A4F-A680-40E6-9406-9D5DF951ED29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C31526F5-E96C-4C3C-AD56-A800E025B608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C31526F5-E96C-4C3C-AD56-A800E025B608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C31526F5-E96C-4C3C-AD56-A800E025B608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C31526F5-E96C-4C3C-AD56-A800E025B608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E060A4F-A680-40E6-9406-9D5DF951ED29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E060A4F-A680-40E6-9406-9D5DF951ED29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E060A4F-A680-40E6-9406-9D5DF951ED29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E060A4F-A680-40E6-9406-9D5DF951ED29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
